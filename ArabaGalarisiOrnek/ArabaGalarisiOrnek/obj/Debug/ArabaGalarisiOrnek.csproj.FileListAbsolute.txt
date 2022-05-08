@@ -1,0 +1,10 @@
+C:\Users\guliz\Desktop\C# çalışmaları\ArabaGalarisiOrnek\ArabaGalarisiOrnek\bin\Debug\ArabaGalarisiOrnek.exe.config
+C:\Users\guliz\Desktop\C# çalışmaları\ArabaGalarisiOrnek\ArabaGalarisiOrnek\bin\Debug\ArabaGalarisiOrnek.exe
+C:\Users\guliz\Desktop\C# çalışmaları\ArabaGalarisiOrnek\ArabaGalarisiOrnek\bin\Debug\ArabaGalarisiOrnek.pdb
+C:\Users\guliz\Desktop\C# çalışmaları\ArabaGalarisiOrnek\ArabaGalarisiOrnek\obj\Debug\ArabaGalarisiOrnek.csproj.AssemblyReference.cache
+C:\Users\guliz\Desktop\C# çalışmaları\ArabaGalarisiOrnek\ArabaGalarisiOrnek\obj\Debug\ArabaGalarisiOrnek.Form1.resources
+C:\Users\guliz\Desktop\C# çalışmaları\ArabaGalarisiOrnek\ArabaGalarisiOrnek\obj\Debug\ArabaGalarisiOrnek.Properties.Resources.resources
+C:\Users\guliz\Desktop\C# çalışmaları\ArabaGalarisiOrnek\ArabaGalarisiOrnek\obj\Debug\ArabaGalarisiOrnek.csproj.GenerateResource.cache
+C:\Users\guliz\Desktop\C# çalışmaları\ArabaGalarisiOrnek\ArabaGalarisiOrnek\obj\Debug\ArabaGalarisiOrnek.csproj.CoreCompileInputs.cache
+C:\Users\guliz\Desktop\C# çalışmaları\ArabaGalarisiOrnek\ArabaGalarisiOrnek\obj\Debug\ArabaGalarisiOrnek.exe
+C:\Users\guliz\Desktop\C# çalışmaları\ArabaGalarisiOrnek\ArabaGalarisiOrnek\obj\Debug\ArabaGalarisiOrnek.pdb
